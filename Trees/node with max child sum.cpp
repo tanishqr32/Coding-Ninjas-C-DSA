@@ -36,7 +36,3 @@ TreeNode<int>* maxSumNode(TreeNode<int>* root){
     }
     return ans;
 }
-
-int main(){
-    
-}
