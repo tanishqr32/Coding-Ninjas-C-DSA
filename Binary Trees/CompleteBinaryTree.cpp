@@ -1,6 +1,5 @@
 #include<iostream>
 #include<queue>
-#define pii pair<int,int>
 using namespace std;
 template<typename T>
 class BinaryTreeNode{
@@ -19,6 +18,7 @@ class BinaryTreeNode{
     }
 
 };
+#define pii pair<int,int>
 
 
 void printBinaryTree(BinaryTreeNode<int> * root){
